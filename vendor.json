@@ -1,0 +1,12 @@
+[
+  {
+    "vendorId": "V001",
+    "vendorName": "ABC Supplier",
+    "city": "Hydrabad"
+  },
+  {
+    "vendorId": "V002",
+    "vendorName": "XYZ Traders",
+    "city": "Delhi"
+  }
+]
